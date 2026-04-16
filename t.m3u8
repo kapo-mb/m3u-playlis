@@ -3,8 +3,11 @@
 #PLAYLISTNAME: Min IPTV Lista
 #EXTM3U
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Genel", ATV2
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", STAR Tv
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c2nka4odoa6&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-id="skynews" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Genel", nkynews
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__6.m3u8
