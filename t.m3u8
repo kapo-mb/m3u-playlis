@@ -15,6 +15,9 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8c2nwjznfmu3&app=da
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", STAR Tv
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c2nka4odoa6&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria News
+https://games2.elahmad.xyz/tv793_www.elahmad.com_alikhbaria_syria/tracks-v1a1/mono.m3u8?token=17eb6ed2c3cdc97655d119b7f3e0c4fdde542dec-8db35aba3db3ee68a53eb893509e1aad-1776349112-1776347312
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
 
@@ -29,12 +32,6 @@ https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", MBC 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
-
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", MTV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/manifest/video/1080p2400kbps/video.m3u8
-
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", ALjadeed
-https://games1.elahmad.xyz/tv793_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=5b89f1b38a0e7f163d5abd33ec8777359c046b5a-18d2913114405062e709e551da59909a-1776343844-1776342044
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", AL Arabiye
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
