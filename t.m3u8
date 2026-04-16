@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#PLAYLISTNAME: Min IPTV Lista
+#EXTM3U
 
-#EXTINF:-1 tvg-id="atv" tvg-logo="https://example.com/atv.png" group-title="Türkiye", ATV
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/abc123.png" group-title="Genel", ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8
 
 
