@@ -9,6 +9,9 @@ https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=zq8A9zpjHowAhnEvSba6mw&e=
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8c2o15uc8996&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", FOX
+https://cdn505.canlitvme.com/foxtv.m3u8?tkn=2Jbuo-El7SsrbS_r1d-BJA&tms=1776364611&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=foxtvcanli-hd-izle
+
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8c2nwjznfmu3&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
