@@ -91,7 +91,20 @@ https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=7daec32f08e6
 https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=d94e2a846d3841993c01d67be0d7e7b6244f316d-846fb693a1c0f393847e1fb545b77060-1776385419-1776374619
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", USArmenia TV
-https://cdn.hayastantv.com:8088/usarmenia/tracks-v1a1/mono.m3u8?token=ddcfff8b6a80e25610b02682ce09c3e49b7a97ee-8259bb37ad56c62b139adeb40992b5dd-1776385934-1776375134
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", 5 tv Armenia 
 https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8?token=35eef824f4a22cd42cb49a0081bbd9db629984db-e62c283f3df27e797635440719879aca-1776385959-1776375159
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", SHOGHER
+https://cdn.hayastantv.com:8088/shoghakat/tracks-v1a1/mono.m3u8?token=24f66a17541666df32381c59ea79cad7115ce4b3-d458fe8441e57f6b60e0b4f25731dd89-1776386072-1776375272
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
+https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Kentron TV
+https://cdn.hayastantv.com:8088/kentron/tracks-v1a1/mono.m3u8?token=7cede9c528c5dd60d18f8c6ad1c8632c67f7273e-2dd65bb239886d8437ca805c98ce0c10-1776386619-1776375819
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Blues
+https://cdn.hayastantv.com:8088/bluestv/tracks-v1a1/mono.m3u8?token=57bf2730cd8a0fd7744a0f797625bfcfd36dab73-2704a22f7bd09faa8804f2affe939314-1776386668-1776375868
+
