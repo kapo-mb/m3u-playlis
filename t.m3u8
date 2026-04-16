@@ -19,8 +19,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c2nka4odoa6&app=a20ac41
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8c35i0f6k59q&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", SHOW
-https://cdn505.canlitvme.com/showtv.m3u8?tkn=SpEt0E9Ki-Xa_bFAKeD_Uw&tms=1776364453&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=showtv-canli-izle
-
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8c35p63sseos&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria News
 https://games2.elahmad.xyz/tv793_www.elahmad.com_alikhbaria_syria/tracks-v1a1/mono.m3u8?token=17eb6ed2c3cdc97655d119b7f3e0c4fdde542dec-8db35aba3db3ee68a53eb893509e1aad-1776349112-1776347312
 
