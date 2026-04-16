@@ -72,3 +72,6 @@ https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=add4f3c5b541
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia TV
 https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=5ef8d3bec3bd603e4dee61a7c51b2c8cdcfc5f38-d3d7a07b3a97f7357f8bec9ec7c809ff-1776358819-1776348019
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", USArmenia TV
+https://cdn.hayastantv.com:8088/usarmenia/tracks-v1a1/mono.m3u8?token=20635dd33f04cc805f9575b983f3595328784bc4-8b6a8bbbfb0e0f573774a0cc5396057b-1776359075-1776348275
