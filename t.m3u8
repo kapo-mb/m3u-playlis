@@ -53,3 +53,22 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdo
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/batman.jpg",The Batman
 https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/03/00442/uee5ukbke3i3_o/index-v1-a1.m3u8?t=0JJ7ChHrPiYIL6-fHyoVOIU8g1Si4pPAorMcWYFscdM&s=1776340215&e=32400&v=2075449815&i=90.144&sp=0
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8?nimblesessionid=844789200
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1m
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8?nimblesessionid=844790344
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Yergir Media
+https://www.yerkirmedia.am/yerkirmedia/live.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H2
+https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8?token=9642f1c007b52b7fad67785c6207cd5e8f9858bd-9992615030fac13d548ae85e6e64bd1b-1776358664-1776347864
+
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", ArmNews
+https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=add4f3c5b5410da652866fa6c7097812ccd70fce-971c6cd411f61546640ec2e5d02dc36c-1776358703-1776347903
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia TV
+https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=5ef8d3bec3bd603e4dee61a7c51b2c8cdcfc5f38-d3d7a07b3a97f7357f8bec9ec7c809ff-1776358819-1776348019
