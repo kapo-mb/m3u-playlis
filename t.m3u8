@@ -85,7 +85,7 @@ https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=b2315a3113c6
 https://www.yerkirmedia.am/yerkirmedia/live.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H2
-https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8
+https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8?token=6481564fbe4548580a231f6195a51c52c9380c56-deaa9958d5280cf43150247362c889ce-1776385746-1776374946
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", ArmNews
 https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=7daec32f08e6a8b5c6d3b34c354fa2a54b1dea29-74c3b07fdaf385638acb851b0570a1f1-1776385570-1776374770
