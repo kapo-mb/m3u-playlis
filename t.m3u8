@@ -45,6 +45,15 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", France 24
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776371282/ei/8vHgacHSMeCq0u8Pr73owAE/ip/90.144.69.222/id/3ursYA8HMeo.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJHgayywE9Rxxf5WTN0kvVjmo21hm8a1cywNiBmTL_-QVFExmnYWh90joYibz6xubewQkn8Vkbd/spc/jlWavUoqMjgsqZTauXalrSlGFoCzzq8X4zQamenPGdoJFZJ5JQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2852500/met/1776349682,/mh/Yn/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/10/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1776349242/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgB4dtOrL96sh-Yuxdn_Kllbi3tdrM4OTetodUm9y9KXgCIQCais7mBYiCzhlVfey12lm1fN2H6_MFAsKMutSu7-wcoA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAK_tdQATK47kPCDkEGVcf7lTwbLZiiWB3P1-qkOS0uNzAiEA0Nn6M3F2_b0AZywf2Iwk7-MOjWsZ5U-mMcByI3jxy7g%3D/playlist/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/batman.jpg",The Batman
 https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/03/00442/uee5ukbke3i3_o/index-v1-a1.m3u8?t=0JJ7ChHrPiYIL6-fHyoVOIU8g1Si4pPAorMcWYFscdM&s=1776340215&e=32400&v=2075449815&i=90.144&sp=0
 
