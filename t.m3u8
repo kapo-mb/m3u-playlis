@@ -14,3 +14,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776358698/ei/
 
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="News", Al Sharq news
 https://live-news.asharq.com/asharq_1080p30.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="News", Al Sharq discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="News", Al Sharq documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
+
+
