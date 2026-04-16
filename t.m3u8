@@ -72,9 +72,6 @@ https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", France 24
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776396204/ei/TFPhab6JDbGO77MP6--xqQM/ip/90.144.69.222/id/3ursYA8HMeo.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGLvrXYZmQYJAKkMoOBTYIR4uX7JV8FGw1-KkEz0doZWaVbvDFpQSUSYKJ93mnNgEFVCG5wpMCTl/spc/jlWavcrRN23ZWpIwJPKFlJlV4nEkrRi_GEsmDdOPsGTdRmqHzw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3048750/met/1776374604,/mh/Yn/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/10/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1776374203/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOkl21TmoZ7P4CzmPfJ_vc6BTwA6klkjEffS0sk7ks9EAiBPxNN_ng1y4chu4mO6n8vrKgJNUvD9GrKXSIXVp4pp3Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgK5-3GziQjQ64GWCSxv9Cz2O8YWT2LpKF4kEyjBlD67YCIEFfb8PP8if0obiMwgg6Gy5Ruemfi2fllkmpl201VpFo/playlist/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/batman.jpg",The Batman
-https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/03/00442/uee5ukbke3i3_o/index-v1-a1.m3u8?t=0JJ7ChHrPiYIL6-fHyoVOIU8g1Si4pPAorMcWYFscdM&s=1776340215&e=32400&v=2075449815&i=90.144&sp=0
-
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1m
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 
@@ -94,4 +91,7 @@ https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=7daec32f08e6
 https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=d94e2a846d3841993c01d67be0d7e7b6244f316d-846fb693a1c0f393847e1fb545b77060-1776385419-1776374619
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", USArmenia TV
-https://cdn.hayastantv.com:8088/usarmenia/tracks-v1a1/mono.m3u8?token=20635dd33f04cc805f9575b983f3595328784bc4-8b6a8bbbfb0e0f573774a0cc5396057b-1776359075-1776348275
+https://cdn.hayastantv.com:8088/usarmenia/tracks-v1a1/mono.m3u8?token=ddcfff8b6a80e25610b02682ce09c3e49b7a97ee-8259bb37ad56c62b139adeb40992b5dd-1776385934-1776375134
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", 5 tv Armenia 
+https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8?token=35eef824f4a22cd42cb49a0081bbd9db629984db-e62c283f3df27e797635440719879aca-1776385959-1776375159
