@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="atv" tvg-logo="https://example.com/atv.png" group-title="Türkiye", ATV
+https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8
+
+
