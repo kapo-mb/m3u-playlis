@@ -3,8 +3,8 @@
 #PLAYLISTNAME: Min IPTV Lista
 #EXTM3U
 
-#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV
-https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=5z0Uedf5DGJp_wq4vFty1g&e=1776454587
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV1
+https://www.youtube.com/watch?v=56g7DPSZjow
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8c2o15uc8996&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
