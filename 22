@@ -1,0 +1,114 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV1
+https://www.youtube.com/watch?v=56g7DPSZjow
+
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8c2o15uc8996&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", FOX
+https://cdn506.canlitvme.com/foxtv.m3u8?tkn=TTqFidZB8Uspdf_HmQf8YA&tms=1776387485&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=foxtvcanli-hd-izle
+
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8c2nwjznfmu3&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", STAR Tv
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c2nka4odoa6&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TV8
+https://cdn509.canlitvme.com/tv8.m3u8?tkn=TjVv_P9VY-nmXC9O4bujew&tms=1776364675&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=tv8canli-kesintisiz-izle
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", SHOW
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8c35p63sseos&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776395496/ei/iFDhaf6vKKiE0u8Po--M-AY/ip/90.144.69.222/id/NGbrJFAnJOU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJ-b0I6sAuLxTq6a9iZgg81nRrJaB-_w_OgDy2ggxUahYu9mhXhvu9Xlf4OsGBRnW5ZwFV6Ef5Y/spc/jlWavUa0geCwnZX5Bjbq_2wrKCX86AzVtiI5LLzsZ-C0LV6AXw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2997500/met/1776373896,/mh/ZR/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776373491/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgMeJWj6AQI7zdHLJjEVAcxsor-ND7TI3R3V54CfL0zJMCIQCxTflXcj9MlPDO2FNhecV4sHtni_xXzQQkE-uA_QFZFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPgXVtPKsadUG6oFVCVHFUvYS595I-xgCrI9N7phFppPAiA6IdBbHhtaNHrpefsUxE_bEDnvOgXPsfdFoWOQ_4V7Rg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria Tv
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria2 Tv
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", AL Syria
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", RED
+https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", AL Arabiye
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", ALmashhad1
+https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/chunklist__2.m3u8
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Arabi 1
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Arabi 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="skynews" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", SkyNews
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776395417/ei/OFDhaYX0PLWNv_IPw_uysQM/ip/90.144.69.222/id/U--OjmpjF5o.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-jvhixh-5gor.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGKR0CwdSJPKNnmJK8wLNOaKJgHFIT-Oxc2ZH1RSv8EhVuHpIX4XfTXueourkrKfc_nzLrKou8dt/spc/jlWavYc4mfduKE8mskQI82rsjdi1YbGonIOiMIF7F7YBxCAn_Q/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3162500/met/1776373817,/mh/gX/mm/44/mn/sn-jvhixh-5gor/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1776373491/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgFhTtWkNvDFhUtMrOm_jkeR4W7u1jGMGkNQUfUwInJtECIQD89oJok8AAGATNuWuLPeuQHAnqAdMpfN-lTXRZhEFKiA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZUZfP2H_rQHJIYEyFWxga0BhLPWBj2dM84P3Or2m3xUCIQDT9Kk-pfB4G1DCeaCoJihGwFjN-s0ae-3lg8HY-mVLFw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Aljazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq news
+https://live-news.asharq.com/asharq_1080p30.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", CGTN
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", France 24
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776396204/ei/TFPhab6JDbGO77MP6--xqQM/ip/90.144.69.222/id/3ursYA8HMeo.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr10---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGLvrXYZmQYJAKkMoOBTYIR4uX7JV8FGw1-KkEz0doZWaVbvDFpQSUSYKJ93mnNgEFVCG5wpMCTl/spc/jlWavcrRN23ZWpIwJPKFlJlV4nEkrRi_GEsmDdOPsGTdRmqHzw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3048750/met/1776374604,/mh/Yn/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/10/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1776374203/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOkl21TmoZ7P4CzmPfJ_vc6BTwA6klkjEffS0sk7ks9EAiBPxNN_ng1y4chu4mO6n8vrKgJNUvD9GrKXSIXVp4pp3Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgK5-3GziQjQ64GWCSxv9Cz2O8YWT2LpKF4kEyjBlD67YCIEFfb8PP8if0obiMwgg6Gy5Ruemfi2fllkmpl201VpFo/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1m
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
+https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=b2315a3113c627dfc62238c7f1628cb88e2acefe-2bf76356c0c4c67d106cd0f9eef23d21-1776385648-1776374848
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Yergir Media
+https://www.yerkirmedia.am/yerkirmedia/live.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H2
+https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8?token=6481564fbe4548580a231f6195a51c52c9380c56-deaa9958d5280cf43150247362c889ce-1776385746-1776374946
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", ArmNews
+https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=7daec32f08e6a8b5c6d3b34c354fa2a54b1dea29-74c3b07fdaf385638acb851b0570a1f1-1776385570-1776374770
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia TV
+https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=d94e2a846d3841993c01d67be0d7e7b6244f316d-846fb693a1c0f393847e1fb545b77060-1776385419-1776374619
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", USArmenia TV
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", 5 tv Armenia 
+https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8?token=35eef824f4a22cd42cb49a0081bbd9db629984db-e62c283f3df27e797635440719879aca-1776385959-1776375159
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", SHOGHER
+https://cdn.hayastantv.com:8088/shoghakat/tracks-v1a1/mono.m3u8?token=24f66a17541666df32381c59ea79cad7115ce4b3-d458fe8441e57f6b60e0b4f25731dd89-1776386072-1776375272
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
+https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Kentron TV
+https://cdn.hayastantv.com:8088/kentron/tracks-v1a1/mono.m3u8?token=7cede9c528c5dd60d18f8c6ad1c8632c67f7273e-2dd65bb239886d8437ca805c98ce0c10-1776386619-1776375819
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Blues
+https://cdn.hayastantv.com:8088/bluestv/tracks-v1a1/mono.m3u8?token=57bf2730cd8a0fd7744a0f797625bfcfd36dab73-2704a22f7bd09faa8804f2affe939314-1776386668-1776375868
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", movie1
+https://m10.uqload.is/3rfkjlkbgrw2q4drdjdpfnnzlmbbiwskih5eeovivudfnivcnv7zelixhpnq/v.mp4
