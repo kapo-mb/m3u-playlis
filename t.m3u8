@@ -114,3 +114,5 @@ https://cdn.hayastantv.com:8088/kentron/tracks-v1a1/mono.m3u8?token=7cede9c528c5
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Blues
 https://cdn.hayastantv.com:8088/bluestv/tracks-v1a1/mono.m3u8?token=57bf2730cd8a0fd7744a0f797625bfcfd36dab73-2704a22f7bd09faa8804f2affe939314-1776386668-1776375868
 
+#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.imgur.com/abc123.png" group-title="Movie", Movie
+https://s1.egybestvid.com/hls2/01/00001/x2ywtp1d6pv5_n/index-v1-a1.m3u8?t=ARemRtRuUeDir9ZX8yRPopJ5djyVMcNbHwXt4awCeNI&s=1776527910&e=43200&v=18385154&i=0.3&sp=0
