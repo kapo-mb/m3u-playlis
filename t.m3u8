@@ -4,7 +4,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV1
-https://www.youtube.com/watch?v=56g7DPSZjow
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776562135/ei/d9vjaYOgObiZ77MPuqb0oA8/ip/90.144.69.222/id/56g7DPSZjow.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/se/bui/AUUZDGL8F3Tt2HqF1dQtQw1KpzeoK3ANOsqdirrr4DHUAaQiDFtevzP92kEMni72A1Jcnx63qp57qZM4/spc/jlWavQ29iUMSwRUWDTlYR0tw7jV77VelD9RCriSHlWZroq-iGQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2846250/met/1776540536,/mh/sI/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776540035/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAL8ac-YPbj_yBT25YloZ0cr2COwyjP6stuwolna8NQ5AAiBo63BrXzf9HNhGtj_ReWTv9CuZT47074cjnmXpRuvKsA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZVIafAKG7_ft444ljpsUi0NeI81K_sLcfbuRl3BcHnkCIQCNJpRBQ_SIcoeO8YjZmWpjcIqZ3Mhn2uUfBvRFksP6aA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8c2o15uc8996&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -42,8 +42,9 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunk
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", AL Arabiye
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", ALmashhad1
-https://fastly.live.brightcove.com/6385343550112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzODUzNDM1NTAxMTIifQ.OXCUOblTM-ZkjiyDxPav01or3H6GE5cbGOp1qXlLERk/chunklist__2.m3u8
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", ALmashhad2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776562280/ei/CNzjaYyyLLfC0u8PjsLrgQg/ip/90.144.69.222/id/codXbsH3w_Y.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr10---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGLV5FvTRyLYtvsuXPbRk0chBeXGIvriLGmWgGQA17swLUi45RWiZjeKCRgk3qWt6OTrUFNR6yhn/spc/jlWavfNdHnazmiqAk9hHG0lU0xqaGitpnTbzH1iDhl-UaJHCmw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2803750/met/1776540680,/mh/Pf/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/10/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1776540272/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgYOyk0rHOWcbJ3GqMEyKyTvEC3hm71w1tsncx-CRWbpcCIFNeu9OFAyM7famXd9mXXb-4bzIy5I9UtV4Dg7vwv03f/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO9l40b2PqKGVl0VSyZP6FMxJA_-WOCkKemwagX2Vr3ZAiB_Zuqy8IeFgniTwe37J4pFV2bTSGh6DFP_bN1GDLCnNw%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Arabi 1
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
 
