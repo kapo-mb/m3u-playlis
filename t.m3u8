@@ -27,6 +27,9 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",mbc1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 
+#EXTINF:-1 tvg-id="dubai" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Dubai
+https://tgn.bozztv.com/trn03/gin-dubaitv/tracks-v1a1/mono.m3u8?nimblesessionid=1559749377&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI2IDg6MTc6NTQgUE0maGFzaF92YWx1ZT1sOGhDMkdXaEZXZnpSaGpZMEFPbGp3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTc=
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",one
 https://tgn.bozztv.com/gin-36bay4/ga-dubaione/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1559734328&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI2IDg6MDc6MjUgUE0maGFzaF92YWx1ZT1kMlMrMWZmV2NINjZhWnhaSG9SeUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 
