@@ -33,6 +33,9 @@ https://tgn.bozztv.com/trn03/gin-dubaitv/tracks-v1a1/mono.m3u8?nimblesessionid=1
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",one
 https://tgn.bozztv.com/gin-36bay4/ga-dubaione/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1559734328&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI2IDg6MDc6MjUgUE0maGFzaF92YWx1ZT1kMlMrMWZmV2NINjZhWnhaSG9SeUtnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aman
+https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=sRnU5_Swf0ud-XXR3c2jcw&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria News
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776395496/ei/iFDhaf6vKKiE0u8Po--M-AY/ip/90.144.69.222/id/NGbrJFAnJOU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJ-b0I6sAuLxTq6a9iZgg81nRrJaB-_w_OgDy2ggxUahYu9mhXhvu9Xlf4OsGBRnW5ZwFV6Ef5Y/spc/jlWavUa0geCwnZX5Bjbq_2wrKCX86AzVtiI5LLzsZ-C0LV6AXw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2997500/met/1776373896,/mh/ZR/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776373491/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgMeJWj6AQI7zdHLJjEVAcxsor-ND7TI3R3V54CfL0zJMCIQCxTflXcj9MlPDO2FNhecV4sHtni_xXzQQkE-uA_QFZFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPgXVtPKsadUG6oFVCVHFUvYS595I-xgCrI9N7phFppPAiA6IdBbHhtaNHrpefsUxE_bEDnvOgXPsfdFoWOQ_4V7Rg%3D%3D/playlist/index.m3u8
 
