@@ -107,40 +107,19 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1m
-https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
-https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=b2315a3113c627dfc62238c7f1628cb88e2acefe-2bf76356c0c4c67d106cd0f9eef23d21-1776385648-1776374848
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Yergir Media
 https://www.yerkirmedia.am/yerkirmedia/live.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H2
-https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8?token=6481564fbe4548580a231f6195a51c52c9380c56-deaa9958d5280cf43150247362c889ce-1776385746-1776374946
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", ArmNews
-https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=7daec32f08e6a8b5c6d3b34c354fa2a54b1dea29-74c3b07fdaf385638acb851b0570a1f1-1776385570-1776374770
-
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia TV
-https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=d94e2a846d3841993c01d67be0d7e7b6244f316d-846fb693a1c0f393847e1fb545b77060-1776385419-1776374619
-
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", USArmenia TV
-http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
-
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", 5 tv Armenia 
-https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8?token=35eef824f4a22cd42cb49a0081bbd9db629984db-e62c283f3df27e797635440719879aca-1776385959-1776375159
-
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", SHOGHER
-https://cdn.hayastantv.com:8088/shoghakat/tracks-v1a1/mono.m3u8?token=24f66a17541666df32381c59ea79cad7115ce4b3-d458fe8441e57f6b60e0b4f25731dd89-1776386072-1776375272
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
 https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
 
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Kentron TV
-https://cdn.hayastantv.com:8088/kentron/tracks-v1a1/mono.m3u8?token=7cede9c528c5dd60d18f8c6ad1c8632c67f7273e-2dd65bb239886d8437ca805c98ce0c10-1776386619-1776375819
 
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Blues
-https://cdn.hayastantv.com:8088/bluestv/tracks-v1a1/mono.m3u8?token=57bf2730cd8a0fd7744a0f797625bfcfd36dab73-2704a22f7bd09faa8804f2affe939314-1776386668-1776375868
-
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", movie1
-https://m10.uqload.is/3rfkjlkbgrw2q4drdjdpfnnzlmbbiwskih5eeovivudfnivcnv7zelixhpnq/v.mp4
