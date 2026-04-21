@@ -4,13 +4,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776562135/ei/d9vjaYOgObiZ77MPuqb0oA8/ip/90.144.69.222/id/56g7DPSZjow.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/se/bui/AUUZDGL8F3Tt2HqF1dQtQw1KpzeoK3ANOsqdirrr4DHUAaQiDFtevzP92kEMni72A1Jcnx63qp57qZM4/spc/jlWavQ29iUMSwRUWDTlYR0tw7jV77VelD9RCriSHlWZroq-iGQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2846250/met/1776540536,/mh/sI/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/5/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776540035/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAL8ac-YPbj_yBT25YloZ0cr2COwyjP6stuwolna8NQ5AAiBo63BrXzf9HNhGtj_ReWTv9CuZT47074cjnmXpRuvKsA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZVIafAKG7_ft444ljpsUi0NeI81K_sLcfbuRl3BcHnkCIQCNJpRBQ_SIcoeO8YjZmWpjcIqZ3Mhn2uUfBvRFksP6aA%3D%3D/playlist/index.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8c2o15uc8996&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-
-#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", FOX
-https://cdn506.canlitvme.com/foxtv.m3u8?tkn=TTqFidZB8Uspdf_HmQf8YA&tms=1776387485&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=foxtvcanli-hd-izle
+#EXTINF:-1 group-title="live" tvg-id="TRT.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8c2nwjznfmu3&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
@@ -19,37 +16,27 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8c2nwjznfmu3&app=da
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8c2nka4odoa6&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TV8
-https://cdn509.canlitvme.com/tv8.m3u8?tkn=TjVv_P9VY-nmXC9O4bujew&tms=1776364675&hst=tv.canlitvme.com&ip=90.144.69.222&utkn=a8ada3376a25b9f4c7a78d23f674098f&ch=tv8canli-kesintisiz-izle
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", SHOW
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8c35p63sseos&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",sport
-https://s3.eu-central-1.amazonaws.com/simo.live/hls/0/stream720p.m3u8
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",halalondon
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 
-#EXTINF:-1 tvg-id="dubai" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Dubai
-https://tgn.bozztv.com/trn03/gin-dubaitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDg6MTI6MjUgUE0maGFzaF92YWx1ZT1GOEQwZFpBMks2Y2NXY2Myd3g5TEhnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTc=
 
-#EXTINF:-1 tvg-id="OneTV.lb@SD" tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="Music",One TV (720p) [Not 24/7]
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aboudabi
-https://tgn.bozztv.com/gin-36bay4/gin-abudhabitv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1561353605&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDg6MjQ6MDIgUE0maGFzaF92YWx1ZT1jc29YWnB4Tm5KMEsrcGpYUk5GakZBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aman
-https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?sid=sRnU5_Swf0ud-XXR3c2jcw&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Amman
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aljadeed
-https://games1.elahmad.xyz/tv793_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=142a99ba5a5c429b273a37ef73af7332b4f9b39d-d9cc9cd37bcb5383a6a0cce85798285d-1776545595-1776543795
+http://185.9.2.18/chid_391/mono.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",MTV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776395496/ei/iFDhaf6vKKiE0u8Po--M-AY/ip/90.144.69.222/id/NGbrJFAnJOU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-jvhixh-5goe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJ-b0I6sAuLxTq6a9iZgg81nRrJaB-_w_OgDy2ggxUahYu9mhXhvu9Xlf4OsGBRnW5ZwFV6Ef5Y/spc/jlWavUa0geCwnZX5Bjbq_2wrKCX86AzVtiI5LLzsZ-C0LV6AXw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2997500/met/1776373896,/mh/ZR/mm/44/mn/sn-jvhixh-5goe7/ms/lva/mv/m/mvi/7/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776373491/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgMeJWj6AQI7zdHLJjEVAcxsor-ND7TI3R3V54CfL0zJMCIQCxTflXcj9MlPDO2FNhecV4sHtni_xXzQQkE-uA_QFZFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPgXVtPKsadUG6oFVCVHFUvYS595I-xgCrI9N7phFppPAiA6IdBbHhtaNHrpefsUxE_bEDnvOgXPsfdFoWOQ_4V7Rg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
