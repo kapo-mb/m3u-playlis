@@ -6,6 +6,12 @@
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=-5TaixrwC6e3WgSdn94gCg&e=1780803682
 
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT Habar
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT Arabic
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+
 #EXTINF:-1 group-title="live" tvg-id="TRT.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
