@@ -22,14 +22,23 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8c35p63sseos&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",mbc 1
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://images.seeklogo.com/logo-png/43/1/mbc-logo-png_seeklogo-434994.png" group-title="Arabic",mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",SAT 7
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://images.seeklogo.com/logo-png/43/1/mbc-logo-png_seeklogo-434994.png" group-title="Arabic",mbc 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://images.seeklogo.com/logo-png/43/1/mbc-logo-png_seeklogo-434994.png" group-title="Arabic",mbc 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
+
+#EXTINF:-1 tvg-id="Sat 7" tvg-name="Sat 7" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",SAT 7
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Roya
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Fujayra
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",halalondon
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
@@ -40,8 +49,11 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aljadeed
+#EXTINF:-1 tvg-id="Lebanon TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Aljadeed
 http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="Lebanon TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",MTV
@@ -55,6 +67,18 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Souriya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Syria One
+https://live.syriaone.tv/live/syriaone.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Lana TV
+https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8?tkn=596836299
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Radio Sham TV 
+https://radioshamfm.grtvstream.com:8400/stream
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Radio Damascuse 
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/chunklist_w762877618.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="skynews arabia" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", RED
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
@@ -75,6 +99,9 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_
 https://stream.skynewsarabia.com/hls/index.m3u8
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Aljazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq news
 https://live-news.asharq.com/asharq_1080p30.m3u8
