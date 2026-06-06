@@ -4,7 +4,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="live" tvg-id="atv.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=-5TaixrwC6e3WgSdn94gCg&e=1780803682
 
 #EXTINF:-1 group-title="live" tvg-id="TRT.tr" tvg-name="ATV2" tvg-logo="https://i.imgur.com/abc123.png" group-title="Turkish", TRT
 https://tv-trt1.medya.trt.com.tr/master.m3u8
