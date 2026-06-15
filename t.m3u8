@@ -147,6 +147,5 @@ https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
 https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
 
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", From 7
-https://s2-100-25-wyl3.97bf1.com/hls/fdy9BJMha65LghO7nyKVt0s77c1gaZR9/index_1920x960.m3u8?token=493f64275f9cf840966866193572e8f0-1780893442-83.252.43.33-b5ac0d45269fa47601e7214f1260d799013be70b1cb8ba793a75621e0dbb0e38
-
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Alsharq" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", From 8
+https://s2-100-25-wyl3.97bf1.com/hls/voqaKeve9xhpLxBx3npDBuONEGAbruI9/index_1920x960.m3u8?token=2eda37b8bea3ad91db3b9a0651d0fcef-1781577085-83.252.43.33-3d65fa91d62b9f5a2f5ed8a106cb02071343398999a0eb2e54f4693e3f1537ca
