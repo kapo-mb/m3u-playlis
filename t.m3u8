@@ -74,9 +74,17 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="Lana TV" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Lana TV
 https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8?tkn=596836299
 
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="Lana TV" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Aleppo today
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Syria TV" tvg-name="Radio Damascuse" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Radio Damascuse 
-https://radiodamascus.ortas.live/RDimshq/RDimshqLive/chunklist_w762877618.m3u8
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="Radio Damascuse" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Braim
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="Radio Damascuse" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Ekhbaria
+http://185.9.2.18/chid_423/index.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-name="RED" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Shams
+https://stream.shams.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-name="RED" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", RED
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
@@ -103,6 +111,9 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al Sharq news" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq news
 https://live-news.asharq.com/asharq_1080p30.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al Sharq news" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", CH14
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al Sharq discovery" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic", Al Sharq discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
