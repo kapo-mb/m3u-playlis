@@ -133,12 +133,34 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia 1 America
+ttps://amtvusdvr.tulix.tv/am4abr/index.m3u8
+
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Yergir Media
 https://www.yerkirmedia.am/yerkirmedia/live.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia
+http://stream.mcquack.net/175/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Armenia Premium
+http://stream.mcquack.net/123/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Shant
+http://stream.mcquack.net/37/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Getron
+http://stream.mcquack.net/39/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Nor Hayastan" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
 https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
+
+#EXTINF:-1 tvg-id="Armenian TBN" tvg-name="Nor Hayastan" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian",Armenia TBN
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
+
 
 #EXTINF:-1 tvg-id="FROM" tvg-name="FROM" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", goat
 https://egy38ssdffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/01/00122/s9hghfy6lqnn_h/index-v1-a1.m3u8?t=xCrVlJr2IXaqkZFfp6c-8uC43q_5U1FBJxtJqfXpkIU&s=1783190252&e=43200&f=613485&i=0.0&sp=0
