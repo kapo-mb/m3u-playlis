@@ -30,7 +30,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://images.seeklogo.com/logo-png/43/1/mbc-logo-png_seeklogo-434994.png" group-title="Arabic",mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sat 7" tvg-name="Sat 7" tvg-logo="https://i.imgur.com/abc123.png" group-title="Arabic",SAT 7
@@ -130,7 +130,8 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1m" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1m
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 
-#EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
+
+#EXTINF:-1 tvg-id="Armenian H2" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="H1" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", H1
@@ -154,6 +155,8 @@ http://stream.mcquack.net/37/index.m3u8
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Getron
 http://stream.mcquack.net/39/index.m3u8
 
+#EXTINF:-1 tvg-id="Armenian H1" tvg-name="Yergir Media" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", ATV
+http://stream.mcquack.net/36/index.m3u8
 
 #EXTINF:-1 tvg-id="Armenian H1" tvg-name="Nor Hayastan" tvg-logo="https://i.imgur.com/abc123.png" group-title="Armenian", Nor Hayastan
 https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=f774493b6a5dd5259ada3fae5c6ddf1b5438b881-79db7292bb402f483633fd59a30e8a53-1776386136-1776375336
